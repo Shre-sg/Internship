@@ -1,0 +1,23 @@
+npm create vite@latest
+Need to install the following packages:
+create-vite@5.3.0
+Ok to proceed? (y) y
+
+> npx
+> create-vite
+
+✔ Project name: … vite-project
+✔ Select a framework: › React                         ---< choose
+✔ Select a variant: › JavaScript + SWC                ---< choose
+
+Scaffolding project in /home/shre_sg/Projects/SE/frontend/vite-project...
+
+Done. Now run:
+
+  cd vite-project
+  npm install
+  npm run dev
+
+cd vite-project
+  npm install
+  npm run dev

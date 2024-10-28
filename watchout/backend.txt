@@ -1,0 +1,17 @@
+cd backend
+fuser -k 3000/tcp
+nvm install node
+npm install -g npm 
+
+node --version
+v23.1.0
+nvm --version
+0.39.3
+npm --version
+10.9.0
+
+npm init --yes
+npm i express
+sudo npm i -g nodemon
+npm i mysql
+npm i mysql2
